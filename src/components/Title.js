@@ -6,7 +6,7 @@ class Title extends Component {
             <div className="title">
                 <h1> Fire Gallery </h1>
                 <h2>your Pictures</h2>
-                <p> lorem </p>
+              
             </div>
         )
     }
