@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lightgreener/fire_gram/static/css/main.1d1464d2.chunk.css",
+    "main.js": "/lightgreener/fire_gram/static/js/main.667dcb6e.chunk.js",
+    "main.js.map": "/lightgreener/fire_gram/static/js/main.667dcb6e.chunk.js.map",
+    "runtime-main.js": "/lightgreener/fire_gram/static/js/runtime-main.be962f65.js",
+    "runtime-main.js.map": "/lightgreener/fire_gram/static/js/runtime-main.be962f65.js.map",
+    "static/js/2.e6a0a6fc.chunk.js": "/lightgreener/fire_gram/static/js/2.e6a0a6fc.chunk.js",
+    "static/js/2.e6a0a6fc.chunk.js.map": "/lightgreener/fire_gram/static/js/2.e6a0a6fc.chunk.js.map",
+    "static/js/3.b6710818.chunk.js": "/lightgreener/fire_gram/static/js/3.b6710818.chunk.js",
+    "static/js/3.b6710818.chunk.js.map": "/lightgreener/fire_gram/static/js/3.b6710818.chunk.js.map",
+    "index.html": "/lightgreener/fire_gram/index.html",
+    "static/css/main.1d1464d2.chunk.css.map": "/lightgreener/fire_gram/static/css/main.1d1464d2.chunk.css.map",
+    "static/js/2.e6a0a6fc.chunk.js.LICENSE.txt": "/lightgreener/fire_gram/static/js/2.e6a0a6fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be962f65.js",
+    "static/js/2.e6a0a6fc.chunk.js",
+    "static/css/main.1d1464d2.chunk.css",
+    "static/js/main.667dcb6e.chunk.js"
+  ]
+}
